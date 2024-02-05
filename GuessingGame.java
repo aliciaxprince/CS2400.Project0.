@@ -5,7 +5,7 @@
 //  Course:     cs-1400-03-f22
 //
 //  Description:
-//               This program will allow the participant to play a guessing game.
+//               This program will allow the participant to play a guessing game. (rerunning this program for CS 2400 Project 0)
 // 
 
 import java.util.Random;
